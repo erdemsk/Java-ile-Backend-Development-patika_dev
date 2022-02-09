@@ -4,8 +4,7 @@
 
 > Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.
 ---
-![İlgili array'in binary search tree ile görsel ifadesi](img/binary_search_tree.png)
-
+![İlgili array'in binary search tree ile görsel ifadesi](https://user-images.githubusercontent.com/70029976/153290212-5a54104d-e26a-4563-b042-b186c49c4418.PNG)
 
 * root **5**'dir. root'un sağında **7**, solunda **3** bulunur.
 * **3**'ün sağında **4**, solunda **1** bulunur.
