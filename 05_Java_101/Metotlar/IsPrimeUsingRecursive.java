@@ -14,10 +14,14 @@ public class IsPrimeUsingRecursive {
         int number = input.nextInt();
         int divisor = 2;
 
-        if(isPrime(number, divisor)){
-            System.out.println(number + " is a prime number");
-        } else{
+        if (number <= 1){
             System.out.println(number + " is NOT a prime number");
+        } else{
+            if(isPrime(number, divisor)){
+                System.out.println(number + " is a prime number");
+            } else{
+                System.out.println(number + " is NOT a prime number");
+            }
         }
     }
 
