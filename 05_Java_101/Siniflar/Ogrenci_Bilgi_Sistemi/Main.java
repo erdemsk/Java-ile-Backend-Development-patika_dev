@@ -1,4 +1,4 @@
-package student.information.system;
+package studentinformationsystem;
      /*
     Homework of Java101 Module by patika.dev https://app.patika.dev/moduller/java101/pratik-obs
     Write a student information system with 4 classes: Course, Professor, Student, Main
