@@ -1,4 +1,4 @@
-package student.information.system;
+package studentinformationsystem;
 
 public class Course {
     Professor professor;
