@@ -1,4 +1,4 @@
-package student.information.system;
+package studentinformationsystem;
 
 public class Professor {
     String name, phoneNumber, branch;
