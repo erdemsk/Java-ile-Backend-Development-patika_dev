@@ -1,4 +1,4 @@
-package student.information.system;
+package studentinformationsystem;
 
 public class Student {
     final double NUMBER_OF_COURSES = 3.0;
