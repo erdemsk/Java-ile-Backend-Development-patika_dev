@@ -1,0 +1,14 @@
+public class HarmonicAverageCalculator {
+    public static void main(String[] args) {
+        double[] numbers = {1, 2, 3, 4, 5};
+        double harmonicSeries= 0;
+
+        for (double i : numbers) {
+            harmonicSeries += (1 / i);
+        }
+        
+        double harmonicAverage = numbers.length / harmonicSeries;
+
+        System.out.println(harmonicAverage);
+    }
+}
