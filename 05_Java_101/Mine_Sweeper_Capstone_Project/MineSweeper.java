@@ -1,5 +1,7 @@
+//Capstone project of Java101 Module by patika.dev https://app.patika.dev/courses/java101/bitirme-mayin-tarlasi
 import java.util.Objects;
 import java.util.Scanner;
+
 public class MineSweeper {
     int numberOfRows;
     int numberOfColumns;
